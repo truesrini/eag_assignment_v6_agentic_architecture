@@ -1,0 +1,23 @@
+{
+    "High": {
+        "Equity": 35,
+        "Fixed Income": 10,
+        "Real Estate": 40,
+        "Alternate Investments": 10,
+        "Cash": 5
+    },
+    "Medium": {
+        "Equity": 30,
+        "Fixed Income": 30,
+        "Real Estate": 30,
+        "Alternate Investments": 5,
+        "Cash": 5
+    },
+    "Low": {
+        "Equity": 10,
+        "Fixed Income": 60,
+        "Real Estate": 20,
+        "Alternate Investments": 0,
+        "Cash": 10
+    }
+} 
